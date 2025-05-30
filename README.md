@@ -18,7 +18,7 @@ Incrementing `b` outside of `prng_b_32()` behaves as an interdimensional jump fu
 
 Zeroland escapes immediately after generating 1 subsequent number.
 
-It's the fastest 32-bit PRNG that generates numbers individually, has a period of at least 2³² and passes statistical tests in `stdin32` PractRand with 32MB of numbers.
+It's the fastest 32-bit PRNG that generates numbers individually, has a period of at least 2³² and passes statistical tests in `stdin32` PractRand with 8MB of numbers.
 
 I welcome submissions of algorithms in the same class that challenge the aforementioned claim.
 
